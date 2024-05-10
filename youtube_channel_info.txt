@@ -25,3 +25,28 @@ https://www.youtube.com/@TVBSNEWS01/live
 
 东森新闻 | Taiwan | https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png |
 https://www.youtube.com/newsebc/live
+
+东森财经新闻 | Taiwan | https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC7.png |
+https://www.youtube.com/@57ETFN/live
+
+三立新闻 | Taiwan | https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png |
+https://www.youtube.com/@setnews/live
+
+寰宇新闻 | Taiwan | https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global2.png |
+https://www.youtube.com/@globalnewstw/live
+
+寰宇新闻台湾 | Taiwan | https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global3.png |
+https://www.youtube.com/watch?v=w87VGpgd90U
+
+寰宇财经新闻 | Taiwan | https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global4.png |
+https://www.youtube.com/@globlemoney/live
+
+公共电视 | Taiwan | https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/PTS.png |
+https://www.youtube.com/@ptslivestream/live
+
+公视新闻 | Taiwan | https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/PTS.png |
+https://www.youtube.com/c/PNNPTS/live
+
+镜新闻 | Taiwan | https://upload.wikimedia.org/wikipedia/zh/a/a6/MNEWS_logo.png |
+https://www.youtube.com/@mnews-tw/live
+
