@@ -6,7 +6,7 @@
 https://www.youtube.com/@phoenixtvhk/live
 
 中天新闻 | Taiwan | https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png |
-https://www.youtube.com/@CtiTv/live
+https://www.youtube.com/watch?v=oIgbl7t0S_w
 
 中视新闻 | Taiwan | https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV1.png |
 https://www.youtube.com/@twctvnews/live
