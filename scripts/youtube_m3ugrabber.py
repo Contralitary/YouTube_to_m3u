@@ -20,6 +20,23 @@ windows = False
 if 'win' in sys.platform:
     windows = True
 
+def get_last_line_of_m3u8(url):
+    try:
+        # 发送HTTP GET请求
+        response = requests.get(url)
+        # 检查请求是否成功
+        if response.status_code == 200:
+            # 以行为单位分割文件内容
+            lines = response.text.strip().split('\n')
+            # 返回最后一行
+            if lines:
+                return lines[-1]
+        else:
+            print('Failed to retrieve the m3u8 file.')
+    except Exception as e:
+        print(f'An error occurred: {e}')
+    return None
+
 def grab(url):
     response = requests.get(url, timeout=15).text
     if '.m3u8' not in response:
@@ -44,7 +61,8 @@ def grab(url):
             break
         else:
             tuner += 5
-    print(f"{link[start : end]}")
+    last_line = get_last_line_of_m3u8(link[start : end])
+    print(f"{last_line}")
 
 print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
 print(banner)
